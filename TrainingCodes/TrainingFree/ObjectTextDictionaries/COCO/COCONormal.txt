@@ -1,0 +1,65 @@
+fire hydrant
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+hat
+umbrella
+shoe
+eye glasses
+tie
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball glove
+skateboard
+surfboard
+tennis racket
+plate
+wine glass
+cup
+fork
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+couch
+potted plant
+bed
+mirror
+dining table
+window
+desk
+toilet
+door
+mouse
+remote
+keyboard
+toaster
+sink
+blender
+book
+clock
+vase
+teddy bear
+hair drier
+toothbrush
+hair brush

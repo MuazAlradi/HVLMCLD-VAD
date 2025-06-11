@@ -1,0 +1,1900 @@
+Walk
+Walked
+Walking
+Will walk
+Sit
+Sat
+Sitting
+Will sit
+Stand
+Stood
+Standing
+Will stand
+Browse
+Browsed
+Browsing
+Will browse
+Shop
+Shopped
+Shopping
+Will shop
+Eat
+Ate
+Eating
+Will eat
+Drink
+Drank
+Drinking
+Will drink
+Read
+Read
+Reading
+Will read
+Watch
+Watched
+Watching
+Will watch
+Listen
+Listened
+Listening
+Will listen
+Laugh
+Laughed
+Laughing
+Will laugh
+Talk
+Talked
+Talking
+Will talk
+Chat
+Chatted
+Chatting
+Will chat
+Jog
+Jogged
+Jogging
+Will jog
+Run
+Ran
+Running
+Will run
+Stretch
+Stretched
+Stretching
+Will stretch
+Dance
+Danced
+Dancing
+Will dance
+Play
+Played
+Playing
+Will play
+Work
+Worked
+Working
+Will work
+Study
+Studied
+Studying
+Will study
+Cook
+Cooked
+Cooking
+Will cook
+Clean
+Cleaned
+Cleaning
+Will clean
+Drive
+Drove
+Driving
+Will drive
+Ride
+Rode
+Riding
+Will ride
+Park
+Parked
+Parking
+Will park
+Enter
+Entered
+Entering
+Will enter
+Exit
+Exited
+Exiting
+Will exit
+Open
+Opened
+Opening
+Will open
+Close
+Closed
+Closing
+Will close
+Wait
+Waited
+Waiting
+Will wait
+Meet
+Met
+Meeting
+Will meet
+Greet
+Greeted
+Greeting
+Will greet
+Wave
+Waved
+Waving
+Will wave
+Smile
+Smiled
+Smiling
+Will smile
+Frown
+Frowned
+Frowning
+Will frown
+Think
+Thought
+Thinking
+Will think
+Rest
+Rested
+Resting
+Will rest
+Relax
+Relaxed
+Relaxing
+Will relax
+Climb
+Climbed
+Climbing
+Will climb
+Jump
+Jumped
+Jumping
+Will jump
+Skip
+Skipped
+Skipping
+Will skip
+Bend
+Bent
+Bending
+Will bend
+Lift
+Lifted
+Lifting
+Will lift
+Drop
+Dropped
+Dropping
+Will drop
+Pull
+Pulled
+Pulling
+Will pull
+Push
+Pushed
+Pushing
+Will push
+Turn
+Turned
+Turning
+Will turn
+Reach
+Reached
+Reaching
+Will reach
+Pick
+Picked
+Picking
+Will pick
+Place
+Placed
+Placing
+Will place
+Fill
+Filled
+Filling
+Will fill
+Empty
+Emptied
+Emptying
+Will empty
+Pay
+Paid
+Paying
+Will pay
+Sell
+Sold
+Selling
+Will sell
+Buy
+Bought
+Buying
+Will buy
+Offer
+Offered
+Offering
+Will offer
+Serve
+Served
+Serving
+Will serve
+Help
+Helped
+Helping
+Will help
+Follow
+Followed
+Following
+Will follow
+Lead
+Led
+Leading
+Will lead
+Arrange
+Arranged
+Arranging
+Will arrange
+Organize
+Organized
+Organizing
+Will organize
+Gather
+Gathered
+Gathering
+Will gather
+Scatter
+Scattered
+Scattering
+Will scatter
+Include
+Included
+Including
+Will include
+Exclude
+Excluded
+Excluding
+Will exclude
+Attach
+Attached
+Attaching
+Will attach
+Detach
+Detached
+Detaching
+Will detach
+Compare
+Compared
+Comparing
+Will compare
+Contrast
+Contrasted
+Contrasting
+Will contrast
+Adjust
+Adjusted
+Adjusting
+Will adjust
+Fix
+Fixed
+Fixing
+Will fix
+Check
+Checked
+Checking
+Will check
+Verify
+Verified
+Verifying
+Will verify
+Schedule
+Scheduled
+Scheduling
+Will schedule
+Cancel
+Canceled
+Canceling
+Will cancel
+Postpone
+Postponed
+Postponing
+Will postpone
+Reschedule
+Rescheduled
+Rescheduling
+Will reschedule
+Plan
+Planned
+Planning
+Will plan
+Design
+Designed
+Designing
+Will design
+Paint
+Painted
+Painting
+Will paint
+Draw
+Drew
+Drawing
+Will draw
+Sketch
+Sketched
+Sketching
+Will sketch
+Photograph
+Photographed
+Photographing
+Will photograph
+Record
+Recorded
+Recording
+Will record
+Charge
+Charged
+Charging
+Will charge
+Unplug
+Unplugged
+Unplugging
+Will unplug
+Recharge
+Recharged
+Recharging
+Will recharge
+Sync
+Synced
+Syncing
+Will sync
+Update
+Updated
+Updating
+Will update
+Upgrade
+Upgraded
+Upgrading
+Will upgrade
+Download
+Download
+Downloaded
+Downloading
+Will download
+Upload
+Uploaded
+Uploading
+Will upload
+Text
+Texted
+Texting
+Will text
+Call
+Called
+Calling
+Will call
+Answer
+Answered
+Answering
+Will answer
+Hang up
+Hung up
+Hanging up
+Will hang up
+Log in
+Logged in
+Logging in
+Will log in
+Log out
+Logged out
+Logging out
+Will log out
+Shutdown
+Shut down
+Shutting down
+Will shut down
+Sweep
+Swept
+Sweeping
+Will sweep
+Mop
+Mopped
+Mopping
+Will mop
+Decorate
+Decorated
+Decorating
+Will decorate
+Celebrate
+Celebrated
+Celebrating
+Will celebrate
+Sing
+Sang
+Singing
+Will sing
+Hum
+Hummed
+Humming
+Will hum
+Whistle
+Whistled
+Whistling
+Will whistle
+Yawn
+Yawned
+Yawning
+Will yawn
+Sneeze
+Sneezed
+Sneezing
+Will sneeze
+Cough
+Coughed
+Coughing
+Will cough
+Blink
+Blinked
+Blinking
+Will blink
+Wink
+Winked
+Winking
+Will wink
+Nod
+Nodded
+Nodding
+Will nod
+Shrug
+Shrugged
+Shrugging
+Will shrug
+Scratch
+Scratched
+Scratching
+Will scratch
+Rub
+Rubbed
+Rubbing
+Will rub
+Massage
+Massaged
+Massaging
+Will massage
+Wave
+Waved
+Waving
+Will wave
+Cheer
+Cheered
+Cheering
+Will cheer
+Clap
+Clapped
+Clapping
+Will clap
+Stomp
+Stomped
+Stomping
+Will stomp
+Memorize
+Memorized
+Memorizing
+Will memorize
+Recall
+Recalled
+Recalling
+Will recall
+Imagine
+Imagined
+Imagining
+Will imagine
+Dream
+Dreamed
+Dreaming
+Will dream
+Ponder
+Pondered
+Pondering
+Will ponder
+Meditate
+Meditated
+Meditating
+Will meditate
+Pray
+Prayed
+Praying
+Will pray
+Bless
+Blessed
+Blessing
+Will bless
+Praise
+Praised
+Praising
+Will praise
+Criticize
+Criticized
+Criticizing
+Will criticize
+Applaud
+Applauded
+Applauding
+Will applaud
+Boo
+Booed
+Booing
+Will boo
+Argue
+Argued
+Arguing
+Will argue
+Discuss
+Discussed
+Discussing
+Will discuss
+Debate
+Debated
+Debating
+Will debate
+Persuade
+Persuaded
+Persuading
+Will persuade
+Suggest
+Suggested
+Suggesting
+Will suggest
+Compliment
+Complimented
+Complimenting
+Will compliment
+Apologize
+Apologized
+Apologizing
+Will apologize
+Forgive
+Forgave
+Forgiving
+Will forgive
+Thank
+Thanked
+Thanking
+Will thank
+Welcome
+Welcomed
+Welcoming
+Will welcome
+Farewell
+Farewelled
+Farewelling
+Will farewell
+Toast
+Toasted
+Toasting
+Will toast
+Salute
+Saluted
+Saluting
+Will salute
+Command
+Commanded
+Commanding
+Will command
+Instruct
+Instructed
+Instructing
+Will instruct
+Train
+Trained
+Training
+Will train
+Coach
+Coached
+Coaching
+Will coach
+Mentor
+Mentored
+Mentoring
+Will mentor
+Tutor
+Tutored
+Tutoring
+Will tutor
+Learn
+Learned
+Learning
+Will learn
+Discover
+Discovered
+Discovering
+Will discover
+Explore
+Explored
+Exploring
+Will explore
+Travel
+Traveled
+Traveling
+Will travel
+Visit
+Visited
+Visiting
+Will visit
+Tour
+Toured
+Touring
+Will tour
+Guide
+Guided
+Guiding
+Will guide
+Lead
+Led
+Leading
+Will lead
+Follow
+Followed
+Following
+Will follow
+Find
+Found
+Finding
+Will find
+Lose
+Lost
+Losing
+Will lose
+Recover
+Recovered
+Recovering
+Will recover
+Search
+Searched
+Searching
+Will search
+Research
+Researched
+Researching
+Will research
+Experiment
+Experimented
+Experimenting
+Will experiment
+Test
+Tested
+Testing
+Will test
+Analyze
+Analyzed
+Analyzing
+Will analyze
+Solve
+Solved
+Solving
+Will solve
+Resolve
+Resolved
+Resolving
+Will resolve
+Fix
+Fixed
+Fixing
+Will fix
+Repair
+Repaired
+Repairing
+Will repair
+Maintain
+Maintained
+Maintaining
+Will maintain
+Inspect
+Inspected
+Inspecting
+Will inspect
+Examine
+Examined
+Examining
+Will examine
+Observe
+Observed
+Observing
+Will observe
+View
+Viewed
+Viewing
+Will view
+Watch
+Watched
+Watching
+Will watch
+See
+Saw
+Seeing
+Will see
+Hear
+Heard
+Hearing
+Will hear
+Taste
+Tasted
+Tasting
+Will taste
+Touch
+Touched
+Touching
+Will touch
+Feel
+Felt
+Feeling
+Will feel
+Smell
+Smelled
+Smelling
+Will smell
+Sense
+Sensed
+Sensing
+Will sense
+Recognize
+Recognized
+Recognizing
+Will recognize
+Identify
+Identified
+Identifying
+Will identify
+Name
+Named
+Naming
+Will name
+Describe
+Described
+Describing
+Will describe
+Report
+Reported
+Reporting
+Will report
+Explain
+Explained
+Explaining
+Will explain
+Translate
+Translated
+Translating
+Will translate
+Interpret
+Interpreted
+Interpreting
+Will interpret
+Edit
+Edited
+Editing
+Will edit
+Revise
+Revised
+Revising
+Will revise
+Draft
+Drafted
+Drafting
+Will draft
+Write
+Wrote
+Writing
+Will write
+Type
+Typed
+Typing
+Will type
+Print
+Printed
+Printing
+Will print
+Publish
+Published
+Publishing
+Will publish
+Broadcast
+Broadcasted
+Broadcasting
+Will broadcast
+Stream
+Streamed
+Streaming
+Will stream
+Air
+Aired
+Airing
+Will air
+Announce
+Announced
+Announcing
+Will announce
+Proclaim
+Proclaimed
+Proclaiming
+Will proclaim
+Declare
+Declared
+Declaring
+Will declare
+Disclose
+Disclosed
+Disclosing
+Will disclose
+Reveal
+Revealed
+Revealing
+Will reveal
+Uncover
+Uncovered
+Uncovering
+Will uncover
+Expose
+Exposed
+Exposing
+Will expose
+Display
+Displayed
+Displaying
+Will display
+Exhibit
+Exhibited
+Exhibiting
+Will exhibit
+Present
+Presented
+Presenting
+Will present
+Demonstrate
+Demonstrated
+Demonstrating
+Will demonstrate
+Participate
+Participated
+Participating
+Will participate
+Attend
+Attended
+Attending
+Will attend
+Host
+Hosted
+Hosting
+Will host
+Organize
+Organized
+Organizing
+Will organize
+Arrange
+Arranged
+Arranging
+Will arrange
+Prepare
+Prepared
+Preparing
+Will prepare
+Plan
+Planned
+Planning
+Will plan
+Schedule
+Scheduled
+Scheduling
+Will schedule
+Postpone
+Postponed
+Postponing
+Will postpone
+Cancel
+Canceled
+Canceling
+Will cancel
+Reschedule
+Rescheduled
+Rescheduling
+Will reschedule
+Rearrange
+Rearranged
+Rearranging
+Will rearrange
+Adjust
+Adjusted
+Adjusting
+Will adjust
+Change
+Changed
+Changing
+Will change
+Replace
+Replaced
+Replacing
+Will replace
+Swap
+Swapped
+Swapping
+Will swap
+Exchange
+Exchanged
+Exchanging
+Will exchange
+Barter
+Bartered
+Bartering
+Will barter
+Trade
+Traded
+Trading
+Will trade
+Sell
+Sold
+Selling
+Will sell
+Buy
+Bought
+Buying
+Will buy
+Purchase
+Purchased
+Purchasing
+Will purchase
+Order
+Ordered
+Ordering
+Will order
+Request
+Requested
+Requesting
+Will request
+Require
+Required
+Requiring
+Will require
+Demand
+Demanded
+Demanding
+Will demand
+Need
+Needed
+Needing
+Will need
+Desire
+Desired
+Desiring
+Will desire
+Wish
+Wished
+Wishing
+Will wish
+Want
+Wanted
+Wanting
+Will want
+Hope
+Hoped
+Hoping
+Will hope
+Expect
+Expected
+Expecting
+Will expect
+Anticipate
+Anticipated
+Anticipating
+Will anticipate
+Surprise
+Surprised
+Surprising
+Will surprise
+Startle
+Startled
+Startling
+Will startle
+Amuse
+Amused
+Amusing
+Will amuse
+Entertain
+Entertained
+Entertaining
+Will entertain
+Divert
+Diverted
+Diverting
+Will divert
+Distract
+Distracted
+Distracting
+Will distract
+Engage
+Engaged
+Engaging
+Will engage
+Involve
+Involved
+Involving
+Will involve
+Include
+Included
+Including
+Will include
+Incorporate
+Incorporated
+Incorporating
+Will incorporate
+Integrate
+Integrated
+Integrating
+Will integrate
+Combine
+Combined
+Combining
+Will combine
+Mix
+Mixed
+Mixing
+Will mix
+Blend
+Blended
+Blending
+Will blend
+Merge
+Merged
+Merging
+Will merge
+Fuse
+Fused
+Fusing
+Will fuse
+Bond
+Bonded
+Bonding
+Will bond
+Connect
+Connected
+Connecting
+Will connect
+Link
+Linked
+Linking
+Will link
+Attach
+Attached
+Attaching
+Will attach
+Affix
+Affixed
+Affixing
+Will affix
+Secure
+Secured
+Securing
+Will secure
+Fasten
+Fastened
+Fastening
+Will fasten
+Tie
+Tied
+Tying
+Will tie
+Bind
+Bound
+Binding
+Will bind
+Lace
+Laced
+Lacing
+Will lace
+Buckle
+Buckled
+Buckling
+Will buckle
+Button
+Buttoned
+Buttoning
+Will button
+Zip
+Zipped
+Zipping
+Will zip
+Dress
+Dressed
+Dressing
+Will dress
+Clothe
+Clothed
+Clothing
+Will clothe
+Outfit
+Outfitted
+Outfitting
+Will outfit
+Groom
+Groomed
+Grooming
+Will groom
+Bathe
+Bathed
+Bathing
+Will bathe
+Wash
+Washed
+Washing
+Will wash
+Rinse
+Rinsed
+Rinsing
+Will rinse
+Soak
+Soaked
+Soaking
+Will soak
+Scrub
+Scrubbed
+Scrubbing
+Will scrub
+Cleanse
+Cleansed
+Cleansing
+Will cleanse
+Moisturize
+Moisturized
+Moisturizing
+Will moisturize
+Polish
+Polished
+Polishing
+Will polish
+Shine
+Shined
+Shining
+Will shine
+Wax
+Waxed
+Waxing
+Will wax
+Grease
+Greased
+Greasing
+Will grease
+Oil
+Oiled
+Oiling
+Will oil
+Fuel
+Fueled
+Fueling
+Will fuel
+Fill
+Filled
+Filling
+Will fill
+Empty
+Emptied
+Emptying
+Will empty
+Load
+Loaded
+Loading
+Will load
+Unload
+Unloaded
+Unloading
+Will unload
+Pack
+Packed
+Packing
+Will pack
+Unpack
+Unpacked
+Unpacking
+Will unpack
+abseiling
+acting in play
+adjusting glasses
+air drumming
+alligator wrestling
+answering questions
+applauding
+applying cream
+archaeological excavation
+archery
+arguing
+arm wrestling
+arranging flowers
+assembling bicycle
+assembling computer
+attending conference
+auctioning
+baby waking up
+backflip (human)
+baking cookies
+bandaging
+barbequing
+bartending
+base jumping
+bathing dog
+battle rope training
+beatboxing
+bee keeping
+being excited
+being in zero gravity
+belly dancing
+bench pressing
+bending back
+bending metal
+biking through snow
+blasting sand
+blending fruit
+blowdrying hair
+blowing bubble gum
+blowing glass
+blowing leaves
+blowing nose
+blowing out candles
+bobsledding
+bodysurfing
+bookbinding
+bottling
+bouncing ball (not juggling)
+bouncing on bouncy castle
+bouncing on trampoline
+bowling
+braiding hair
+breading or breadcrumbing
+breakdancing
+breaking boards
+breaking glass
+breathing fire
+brush painting
+brushing floor
+brushing hair
+brushing teeth
+building cabinet
+building lego
+building sandcastle
+building shed
+bulldozing
+bungee jumping
+burping
+busking
+calculating
+calligraphy
+canoeing or kayaking
+capoeira
+capsizing
+card stacking
+card throwing
+carrying baby
+carrying weight
+cartwheeling
+carving ice
+carving marble
+carving pumpkin
+carving wood with a knife
+casting fishing line
+catching fish
+catching or throwing baseball
+catching or throwing frisbee
+catching or throwing softball
+celebrating
+changing gear in car
+changing oil
+changing wheel (not on bike)
+chasing
+checking tires
+checking watch
+cheerleading
+chewing gum
+chiseling stone
+chiseling wood
+chopping meat
+chopping wood
+clam digging
+clapping
+clay pottery making
+clean and jerk
+cleaning gutters
+cleaning pool
+cleaning shoes
+cleaning toilet
+cleaning windows
+climbing a rope
+climbing ladder
+climbing tree
+closing door
+coloring in
+combing hair
+contact juggling
+contorting
+cooking chicken
+cooking egg
+cooking on campfire
+cooking sausages (not on barbeque)
+cooking scallops
+cosplaying
+coughing
+counting money
+country line dancing
+cracking back
+cracking knuckles
+cracking neck
+crawling baby
+crocheting
+crossing eyes
+crossing river
+crying
+cumbia
+curling (sport)
+curling eyelashes
+curling hair
+cutting apple
+cutting cake
+cutting nails
+cutting orange
+cutting pineapple
+cutting watermelon
+dancing ballet
+dancing charleston
+dancing gangnam style
+dancing macarena
+deadlifting
+dealing cards
+decorating the christmas tree
+decoupage
+delivering mail
+digging
+dining
+directing traffic
+disc golfing
+diving cliff
+docking boat
+dodgeball
+doing aerobics
+doing jigsaw puzzle
+doing laundry
+doing nails
+doing sudoku
+drawing
+dribbling basketball
+drinking shots
+driving car
+driving tractor
+drooling
+drop kicking
+drumming fingers
+dumpster diving
+dunking basketball
+dyeing eyebrows
+dyeing hair
+eating burger
+eating cake
+eating carrots
+eating chips
+eating doughnuts
+eating hotdog
+eating ice cream
+eating nachos
+eating spaghetti
+eating watermelon
+egg hunting
+embroidering
+entering church
+exercising arm
+exercising with an exercise ball
+extinguishing fire
+faceplanting
+falling off bike
+falling off chair
+feeding birds
+feeding fish
+feeding goats
+fencing (sport)
+fidgeting
+filling cake
+filling eyebrows
+finger snapping
+fixing bicycle
+fixing hair
+flint knapping
+flipping bottle
+flipping pancake
+fly tying
+flying kite
+folding clothes
+folding napkins
+folding paper
+front raises
+frying vegetables
+gargling
+geocaching
+getting a haircut
+getting a piercing
+getting a tattoo
+giving or receiving award
+gold panning
+golf chipping
+golf driving
+golf putting
+gospel singing in church
+grinding meat
+grooming cat
+grooming dog
+grooming horse
+gymnastics tumbling
+hammer throw
+hand washing clothes
+head stand
+headbanging
+headbutting
+helmet diving
+herding cattle
+high fiving
+high jump
+high kick
+historical reenactment
+hitting baseball
+hockey stop
+holding snake
+home roasting coffee
+hopscotch
+hoverboarding
+huddling
+hugging (not baby)
+hugging baby
+hula hooping
+hurdling
+hurling (sport)
+ice climbing
+ice fishing
+ice skating
+ice swimming
+inflating balloons
+installing carpet
+ironing
+ironing hair
+javelin throw
+jaywalking
+jetskiing
+jogging
+juggling balls
+juggling fire
+juggling soccer ball
+jumping bicycle
+jumping into pool
+jumping jacks
+jumping sofa
+jumpstyle dancing
+karaoke
+kicking field goal
+kicking soccer ball
+kissing
+kitesurfing
+knitting
+krumping
+land sailing
+laughing
+lawn mower racing
+laying bricks
+laying concrete
+laying decking
+laying stone
+laying tiles
+leatherworking
+letting go of balloon
+licking
+lifting hat
+lighting candle
+lighting fire
+listening with headphones
+long jump
+longboarding
+looking at phone
+looking in mirror
+luge
+lunge
+making a cake
+making a sandwich
+making balloon shapes
+making bubbles
+making cheese
+making horseshoes
+making jewelry
+making latte art
+making paper aeroplanes
+making pizza
+making slime
+making snowman
+making sushi
+making tea
+making the bed
+marching
+marriage proposal
+massaging back
+massaging feet
+massaging legs
+massaging neck
+massaging person's head
+metal detecting
+milking cow
+milking goat
+mixing colours
+moon walking
+mopping floor
+mosh pit dancing
+motorcycling
+mountain climber (exercise)
+moving baby
+moving child
+moving furniture
+mowing lawn
+mushroom foraging
+needle felting
+news anchoring
+opening bottle (not wine)
+opening coconuts
+opening door
+opening present
+opening refrigerator
+opening wine bottle
+packing
+paragliding
+parasailing
+parkour
+passing American football (in game)
+passing American football (not in game)
+passing soccer ball
+peeling apples
+peeling banana
+peeling potatoes
+person collecting garbage
+petting animal (not cat)
+petting cat
+petting horse
+photobombing
+photocopying
+picking apples
+picking blueberries
+pillow fight
+pinching
+pirouetting
+planing wood
+planting trees
+plastering
+playing accordion
+playing american football
+playing badminton
+playing bagpipes
+playing basketball
+playing bass guitar
+playing beer pong
+playing billiards
+playing blackjack
+playing cards
+playing cello
+playing checkers
+playing chess
+playing clarinet
+playing controller
+playing cricket
+playing cymbals
+playing darts
+playing didgeridoo
+playing dominoes
+playing drums
+playing field hockey
+playing flute
+playing gong
+playing guitar
+playing hand clapping games
+playing harmonica
+playing harp
+playing ice hockey
+playing keyboard
+playing kickball
+playing laser tag
+playing lute
+playing mahjong
+playing maracas
+playing marbles
+playing monopoly
+playing netball
+playing nose flute
+playing oboe
+playing ocarina
+playing organ
+playing paintball
+playing pan pipes
+playing piano
+playing piccolo
+playing pinball
+playing ping pong
+playing poker
+playing polo
+playing recorder
+playing road hockey
+playing rounders
+playing rubiks cube
+playing saxophone
+playing scrabble
+playing shuffleboard
+playing slot machine
+playing squash or racquetball
+playing tennis
+playing trombone
+playing trumpet
+playing ukulele
+playing violin
+playing volleyball
+playing with trains
+playing xylophone
+poaching eggs
+poking bellybutton
+pole vault
+polishing furniture
+polishing metal
+popping balloons
+pouring beer
+pouring milk
+pouring wine
+preparing salad
+presenting weather forecast
+pretending to be a statue
+pull ups
+pulling espresso shot
+pulling rope (game)
+pumping fist
+pumping gas
+punching bag
+punching person (boxing)
+push up
+pushing car
+pushing cart
+pushing wheelbarrow
+pushing wheelchair
+putting in contact lenses
+putting on eyeliner
+putting on foundation
+putting on lipstick
+putting on mascara
+putting on sari
+putting on shoes
+putting wallpaper on wall
+raising eyebrows
+reading book
+reading newspaper
+recording music
+repairing puncture
+riding a bike
+riding camel
+riding elephant
+riding mechanical bull
+riding mule
+riding or walking with horse
+riding scooter
+riding snow blower
+riding unicycle
+ripping paper
+roasting marshmallows
+roasting pig
+robot dancing
+rock climbing
+rock scissors paper
+roller skating
+rolling eyes
+rolling pastry
+rope pushdown
+running on treadmill
+sailing
+salsa dancing
+saluting
+sanding floor
+sanding wood
+sausage making
+sawing wood
+scrambling eggs
+scrapbooking
+scrubbing face
+scuba diving
+seasoning food
+separating eggs
+setting table
+sewing
+shaking hands
+shaking head
+shaping bread dough
+sharpening knives
+sharpening pencil
+shaving head
+shaving legs
+shearing sheep
+shining flashlight
+shining shoes
+shoot dance
+shooting basketball
+shooting goal (soccer)
+shooting off fireworks
+shopping
+shot put
+shouting
+shoveling snow
+shredding paper
+shucking oysters
+shuffling cards
+shuffling feet
+side kick
+sieving
+sign language interpreting
+silent disco
+singing
+sipping cup
+situp
+skateboarding
+ski ballet
+ski jumping
+skiing crosscountry
+skiing mono
+skiing slalom
+skipping rope
+skipping stone
+skydiving
+slacklining
+slapping
+sled dog racing
+sleeping
+slicing onion
+smashing
+smelling feet
+smoking
+smoking hookah
+smoking pipe
+snatch weight lifting
+sneezing
+snorkeling
+snowboarding
+snowkiting
+snowmobiling
+somersaulting
+spelunking
+spinning plates
+spinning poi
+splashing water
+spray painting
+spraying
+springboard diving
+square dancing
+squat
+squeezing orange
+stacking cups
+stacking dice
+standing on hands
+staring
+steer roping
+steering car
+sticking tongue out
+stomping grapes
+stretching arm
+stretching leg
+sucking lolly
+surfing crowd
+surfing water
+surveying
+sweeping floor
+swimming backstroke
+swimming breast stroke
+swimming butterfly stroke
+swimming front crawl
+swimming with dolphins
+swimming with sharks
+swing dancing
+swinging baseball bat
+swinging on something
+sword fighting
+sword swallowing
+tackling
+tagging graffiti
+tai chi
+taking photo
+talking on cell phone
+tango dancing
+tap dancing
+tapping guitar
+tapping pen
+tasting beer
+tasting food
+tasting wine
+testifying
+texting
+threading needle
+throwing axe
+throwing ball (not baseball or American football)
+throwing discus
+throwing knife
+throwing snowballs
+throwing tantrum
+throwing water balloon
+tickling
+tie dying
+tightrope walking
+tiptoeing
+tobogganing
+tossing coin
+tossing salad
+training dog
+trapezing
+treating wood
+trimming or shaving beard
+trimming shrubs
+trimming trees
+triple jump
+twiddling fingers
+tying bow tie
+tying knot (not on a tie)
+tying necktie
+tying shoe laces
+unboxing
+uncorking champagne
+unloading truck
+using a microscope
+using a paint roller
+using a power drill
+using a sledge hammer
+using a wrench
+using atm
+using bagging machine
+using circular saw
+using inhaler
+using megaphone
+using puppets
+using remote controller (not gaming)
+using segway
+vacuuming car
+vacuuming floor
+visiting the zoo
+wading through mud
+wading through water
+waiting in line
+waking up
+walking on stilts
+walking the dog
+walking through snow
+walking with crutches
+washing dishes
+washing feet
+washing hair
+washing hands
+watching tv
+water skiing
+water sliding
+watering plants
+waving hand
+waxing armpits
+waxing back
+waxing chest
+waxing eyebrows
+waxing legs
+weaving basket
+weaving fabric
+welding
+whistling
+windsurfing
+winking
+wood burning (art)
+wrapping present
+wrestling
+writing
+yarn spinning
+yawning
+yoga
+zumba
+

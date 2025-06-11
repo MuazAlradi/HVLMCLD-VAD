@@ -1,0 +1,1202 @@
+Walk
+Walked
+Walking
+Will walk
+Sit
+Sat
+Sitting
+Will sit
+Stand
+Stood
+Standing
+Will stand
+Browse
+Browsed
+Browsing
+Will browse
+Shop
+Shopped
+Shopping
+Will shop
+Eat
+Ate
+Eating
+Will eat
+Drink
+Drank
+Drinking
+Will drink
+Read
+Read
+Reading
+Will read
+Watch
+Watched
+Watching
+Will watch
+Listen
+Listened
+Listening
+Will listen
+Laugh
+Laughed
+Laughing
+Will laugh
+Talk
+Talked
+Talking
+Will talk
+Chat
+Chatted
+Chatting
+Will chat
+Jog
+Jogged
+Jogging
+Will jog
+Run
+Ran
+Running
+Will run
+Stretch
+Stretched
+Stretching
+Will stretch
+Dance
+Danced
+Dancing
+Will dance
+Play
+Played
+Playing
+Will play
+Work
+Worked
+Working
+Will work
+Study
+Studied
+Studying
+Will study
+Cook
+Cooked
+Cooking
+Will cook
+Clean
+Cleaned
+Cleaning
+Will clean
+Drive
+Drove
+Driving
+Will drive
+Ride
+Rode
+Riding
+Will ride
+Park
+Parked
+Parking
+Will park
+Enter
+Entered
+Entering
+Will enter
+Exit
+Exited
+Exiting
+Will exit
+Open
+Opened
+Opening
+Will open
+Close
+Closed
+Closing
+Will close
+Wait
+Waited
+Waiting
+Will wait
+Meet
+Met
+Meeting
+Will meet
+Greet
+Greeted
+Greeting
+Will greet
+Wave
+Waved
+Waving
+Will wave
+Smile
+Smiled
+Smiling
+Will smile
+Frown
+Frowned
+Frowning
+Will frown
+Think
+Thought
+Thinking
+Will think
+Rest
+Rested
+Resting
+Will rest
+Relax
+Relaxed
+Relaxing
+Will relax
+Climb
+Climbed
+Climbing
+Will climb
+Jump
+Jumped
+Jumping
+Will jump
+Skip
+Skipped
+Skipping
+Will skip
+Bend
+Bent
+Bending
+Will bend
+Lift
+Lifted
+Lifting
+Will lift
+Drop
+Dropped
+Dropping
+Will drop
+Pull
+Pulled
+Pulling
+Will pull
+Push
+Pushed
+Pushing
+Will push
+Turn
+Turned
+Turning
+Will turn
+Reach
+Reached
+Reaching
+Will reach
+Pick
+Picked
+Picking
+Will pick
+Place
+Placed
+Placing
+Will place
+Fill
+Filled
+Filling
+Will fill
+Empty
+Emptied
+Emptying
+Will empty
+Pay
+Paid
+Paying
+Will pay
+Sell
+Sold
+Selling
+Will sell
+Buy
+Bought
+Buying
+Will buy
+Offer
+Offered
+Offering
+Will offer
+Serve
+Served
+Serving
+Will serve
+Help
+Helped
+Helping
+Will help
+Follow
+Followed
+Following
+Will follow
+Lead
+Led
+Leading
+Will lead
+Arrange
+Arranged
+Arranging
+Will arrange
+Organize
+Organized
+Organizing
+Will organize
+Gather
+Gathered
+Gathering
+Will gather
+Scatter
+Scattered
+Scattering
+Will scatter
+Include
+Included
+Including
+Will include
+Exclude
+Excluded
+Excluding
+Will exclude
+Attach
+Attached
+Attaching
+Will attach
+Detach
+Detached
+Detaching
+Will detach
+Compare
+Compared
+Comparing
+Will compare
+Contrast
+Contrasted
+Contrasting
+Will contrast
+Adjust
+Adjusted
+Adjusting
+Will adjust
+Fix
+Fixed
+Fixing
+Will fix
+Check
+Checked
+Checking
+Will check
+Verify
+Verified
+Verifying
+Will verify
+Schedule
+Scheduled
+Scheduling
+Will schedule
+Cancel
+Canceled
+Canceling
+Will cancel
+Postpone
+Postponed
+Postponing
+Will postpone
+Reschedule
+Rescheduled
+Rescheduling
+Will reschedule
+Plan
+Planned
+Planning
+Will plan
+Design
+Designed
+Designing
+Will design
+Paint
+Painted
+Painting
+Will paint
+Draw
+Drew
+Drawing
+Will draw
+Sketch
+Sketched
+Sketching
+Will sketch
+Photograph
+Photographed
+Photographing
+Will photograph
+Record
+Recorded
+Recording
+Will record
+Charge
+Charged
+Charging
+Will charge
+Unplug
+Unplugged
+Unplugging
+Will unplug
+Recharge
+Recharged
+Recharging
+Will recharge
+Sync
+Synced
+Syncing
+Will sync
+Update
+Updated
+Updating
+Will update
+Upgrade
+Upgraded
+Upgrading
+Will upgrade
+Download
+Download
+Downloaded
+Downloading
+Will download
+Upload
+Uploaded
+Uploading
+Will upload
+Text
+Texted
+Texting
+Will text
+Call
+Called
+Calling
+Will call
+Answer
+Answered
+Answering
+Will answer
+Hang up
+Hung up
+Hanging up
+Will hang up
+Log in
+Logged in
+Logging in
+Will log in
+Log out
+Logged out
+Logging out
+Will log out
+Shutdown
+Shut down
+Shutting down
+Will shut down
+Sweep
+Swept
+Sweeping
+Will sweep
+Mop
+Mopped
+Mopping
+Will mop
+Decorate
+Decorated
+Decorating
+Will decorate
+Celebrate
+Celebrated
+Celebrating
+Will celebrate
+Sing
+Sang
+Singing
+Will sing
+Hum
+Hummed
+Humming
+Will hum
+Whistle
+Whistled
+Whistling
+Will whistle
+Yawn
+Yawned
+Yawning
+Will yawn
+Sneeze
+Sneezed
+Sneezing
+Will sneeze
+Cough
+Coughed
+Coughing
+Will cough
+Blink
+Blinked
+Blinking
+Will blink
+Wink
+Winked
+Winking
+Will wink
+Nod
+Nodded
+Nodding
+Will nod
+Shrug
+Shrugged
+Shrugging
+Will shrug
+Scratch
+Scratched
+Scratching
+Will scratch
+Rub
+Rubbed
+Rubbing
+Will rub
+Massage
+Massaged
+Massaging
+Will massage
+Wave
+Waved
+Waving
+Will wave
+Cheer
+Cheered
+Cheering
+Will cheer
+Clap
+Clapped
+Clapping
+Will clap
+Stomp
+Stomped
+Stomping
+Will stomp
+Memorize
+Memorized
+Memorizing
+Will memorize
+Recall
+Recalled
+Recalling
+Will recall
+Imagine
+Imagined
+Imagining
+Will imagine
+Dream
+Dreamed
+Dreaming
+Will dream
+Ponder
+Pondered
+Pondering
+Will ponder
+Meditate
+Meditated
+Meditating
+Will meditate
+Pray
+Prayed
+Praying
+Will pray
+Bless
+Blessed
+Blessing
+Will bless
+Praise
+Praised
+Praising
+Will praise
+Criticize
+Criticized
+Criticizing
+Will criticize
+Applaud
+Applauded
+Applauding
+Will applaud
+Boo
+Booed
+Booing
+Will boo
+Argue
+Argued
+Arguing
+Will argue
+Discuss
+Discussed
+Discussing
+Will discuss
+Debate
+Debated
+Debating
+Will debate
+Persuade
+Persuaded
+Persuading
+Will persuade
+Suggest
+Suggested
+Suggesting
+Will suggest
+Compliment
+Complimented
+Complimenting
+Will compliment
+Apologize
+Apologized
+Apologizing
+Will apologize
+Forgive
+Forgave
+Forgiving
+Will forgive
+Thank
+Thanked
+Thanking
+Will thank
+Welcome
+Welcomed
+Welcoming
+Will welcome
+Farewell
+Farewelled
+Farewelling
+Will farewell
+Toast
+Toasted
+Toasting
+Will toast
+Salute
+Saluted
+Saluting
+Will salute
+Command
+Commanded
+Commanding
+Will command
+Instruct
+Instructed
+Instructing
+Will instruct
+Train
+Trained
+Training
+Will train
+Coach
+Coached
+Coaching
+Will coach
+Mentor
+Mentored
+Mentoring
+Will mentor
+Tutor
+Tutored
+Tutoring
+Will tutor
+Learn
+Learned
+Learning
+Will learn
+Discover
+Discovered
+Discovering
+Will discover
+Explore
+Explored
+Exploring
+Will explore
+Travel
+Traveled
+Traveling
+Will travel
+Visit
+Visited
+Visiting
+Will visit
+Tour
+Toured
+Touring
+Will tour
+Guide
+Guided
+Guiding
+Will guide
+Lead
+Led
+Leading
+Will lead
+Follow
+Followed
+Following
+Will follow
+Find
+Found
+Finding
+Will find
+Lose
+Lost
+Losing
+Will lose
+Recover
+Recovered
+Recovering
+Will recover
+Search
+Searched
+Searching
+Will search
+Research
+Researched
+Researching
+Will research
+Experiment
+Experimented
+Experimenting
+Will experiment
+Test
+Tested
+Testing
+Will test
+Analyze
+Analyzed
+Analyzing
+Will analyze
+Solve
+Solved
+Solving
+Will solve
+Resolve
+Resolved
+Resolving
+Will resolve
+Fix
+Fixed
+Fixing
+Will fix
+Repair
+Repaired
+Repairing
+Will repair
+Maintain
+Maintained
+Maintaining
+Will maintain
+Inspect
+Inspected
+Inspecting
+Will inspect
+Examine
+Examined
+Examining
+Will examine
+Observe
+Observed
+Observing
+Will observe
+View
+Viewed
+Viewing
+Will view
+Watch
+Watched
+Watching
+Will watch
+See
+Saw
+Seeing
+Will see
+Hear
+Heard
+Hearing
+Will hear
+Taste
+Tasted
+Tasting
+Will taste
+Touch
+Touched
+Touching
+Will touch
+Feel
+Felt
+Feeling
+Will feel
+Smell
+Smelled
+Smelling
+Will smell
+Sense
+Sensed
+Sensing
+Will sense
+Recognize
+Recognized
+Recognizing
+Will recognize
+Identify
+Identified
+Identifying
+Will identify
+Name
+Named
+Naming
+Will name
+Describe
+Described
+Describing
+Will describe
+Report
+Reported
+Reporting
+Will report
+Explain
+Explained
+Explaining
+Will explain
+Translate
+Translated
+Translating
+Will translate
+Interpret
+Interpreted
+Interpreting
+Will interpret
+Edit
+Edited
+Editing
+Will edit
+Revise
+Revised
+Revising
+Will revise
+Draft
+Drafted
+Drafting
+Will draft
+Write
+Wrote
+Writing
+Will write
+Type
+Typed
+Typing
+Will type
+Print
+Printed
+Printing
+Will print
+Publish
+Published
+Publishing
+Will publish
+Broadcast
+Broadcasted
+Broadcasting
+Will broadcast
+Stream
+Streamed
+Streaming
+Will stream
+Air
+Aired
+Airing
+Will air
+Announce
+Announced
+Announcing
+Will announce
+Proclaim
+Proclaimed
+Proclaiming
+Will proclaim
+Declare
+Declared
+Declaring
+Will declare
+Disclose
+Disclosed
+Disclosing
+Will disclose
+Reveal
+Revealed
+Revealing
+Will reveal
+Uncover
+Uncovered
+Uncovering
+Will uncover
+Expose
+Exposed
+Exposing
+Will expose
+Display
+Displayed
+Displaying
+Will display
+Exhibit
+Exhibited
+Exhibiting
+Will exhibit
+Present
+Presented
+Presenting
+Will present
+Demonstrate
+Demonstrated
+Demonstrating
+Will demonstrate
+Participate
+Participated
+Participating
+Will participate
+Attend
+Attended
+Attending
+Will attend
+Host
+Hosted
+Hosting
+Will host
+Organize
+Organized
+Organizing
+Will organize
+Arrange
+Arranged
+Arranging
+Will arrange
+Prepare
+Prepared
+Preparing
+Will prepare
+Plan
+Planned
+Planning
+Will plan
+Schedule
+Scheduled
+Scheduling
+Will schedule
+Postpone
+Postponed
+Postponing
+Will postpone
+Cancel
+Canceled
+Canceling
+Will cancel
+Reschedule
+Rescheduled
+Rescheduling
+Will reschedule
+Rearrange
+Rearranged
+Rearranging
+Will rearrange
+Adjust
+Adjusted
+Adjusting
+Will adjust
+Change
+Changed
+Changing
+Will change
+Replace
+Replaced
+Replacing
+Will replace
+Swap
+Swapped
+Swapping
+Will swap
+Exchange
+Exchanged
+Exchanging
+Will exchange
+Barter
+Bartered
+Bartering
+Will barter
+Trade
+Traded
+Trading
+Will trade
+Sell
+Sold
+Selling
+Will sell
+Buy
+Bought
+Buying
+Will buy
+Purchase
+Purchased
+Purchasing
+Will purchase
+Order
+Ordered
+Ordering
+Will order
+Request
+Requested
+Requesting
+Will request
+Require
+Required
+Requiring
+Will require
+Demand
+Demanded
+Demanding
+Will demand
+Need
+Needed
+Needing
+Will need
+Desire
+Desired
+Desiring
+Will desire
+Wish
+Wished
+Wishing
+Will wish
+Want
+Wanted
+Wanting
+Will want
+Hope
+Hoped
+Hoping
+Will hope
+Expect
+Expected
+Expecting
+Will expect
+Anticipate
+Anticipated
+Anticipating
+Will anticipate
+Surprise
+Surprised
+Surprising
+Will surprise
+Startle
+Startled
+Startling
+Will startle
+Amuse
+Amused
+Amusing
+Will amuse
+Entertain
+Entertained
+Entertaining
+Will entertain
+Divert
+Diverted
+Diverting
+Will divert
+Distract
+Distracted
+Distracting
+Will distract
+Engage
+Engaged
+Engaging
+Will engage
+Involve
+Involved
+Involving
+Will involve
+Include
+Included
+Including
+Will include
+Incorporate
+Incorporated
+Incorporating
+Will incorporate
+Integrate
+Integrated
+Integrating
+Will integrate
+Combine
+Combined
+Combining
+Will combine
+Mix
+Mixed
+Mixing
+Will mix
+Blend
+Blended
+Blending
+Will blend
+Merge
+Merged
+Merging
+Will merge
+Fuse
+Fused
+Fusing
+Will fuse
+Bond
+Bonded
+Bonding
+Will bond
+Connect
+Connected
+Connecting
+Will connect
+Link
+Linked
+Linking
+Will link
+Attach
+Attached
+Attaching
+Will attach
+Affix
+Affixed
+Affixing
+Will affix
+Secure
+Secured
+Securing
+Will secure
+Fasten
+Fastened
+Fastening
+Will fasten
+Tie
+Tied
+Tying
+Will tie
+Bind
+Bound
+Binding
+Will bind
+Lace
+Laced
+Lacing
+Will lace
+Buckle
+Buckled
+Buckling
+Will buckle
+Button
+Buttoned
+Buttoning
+Will button
+Zip
+Zipped
+Zipping
+Will zip
+Dress
+Dressed
+Dressing
+Will dress
+Clothe
+Clothed
+Clothing
+Will clothe
+Outfit
+Outfitted
+Outfitting
+Will outfit
+Groom
+Groomed
+Grooming
+Will groom
+Bathe
+Bathed
+Bathing
+Will bathe
+Wash
+Washed
+Washing
+Will wash
+Rinse
+Rinsed
+Rinsing
+Will rinse
+Soak
+Soaked
+Soaking
+Will soak
+Scrub
+Scrubbed
+Scrubbing
+Will scrub
+Cleanse
+Cleansed
+Cleansing
+Will cleanse
+Moisturize
+Moisturized
+Moisturizing
+Will moisturize
+Polish
+Polished
+Polishing
+Will polish
+Shine
+Shined
+Shining
+Will shine
+Wax
+Waxed
+Waxing
+Will wax
+Grease
+Greased
+Greasing
+Will grease
+Oil
+Oiled
+Oiling
+Will oil
+Fuel
+Fueled
+Fueling
+Will fuel
+Fill
+Filled
+Filling
+Will fill
+Empty
+Emptied
+Emptying
+Will empty
+Load
+Loaded
+Loading
+Will load
+Unload
+Unloaded
+Unloading
+Will unload
+Pack
+Packed
+Packing
+Will pack
+Unpack
+Unpacked
+Unpacking
+Will unpack
+
