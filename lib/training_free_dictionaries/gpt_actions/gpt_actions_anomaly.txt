@@ -1,0 +1,562 @@
+Abuse
+Abused
+Abusing
+Will abuse
+Arrest
+Arrested
+Arresting
+Will arrest
+Arson
+Committed arson
+Commit arson
+Committing arson
+Will commit arson
+Assault
+Assaulted
+Assaulting
+Will assault
+Burglary
+Burglarized
+Burglarize
+Burglarizing
+Will burglarize
+Explosion
+Exploded
+Explode
+Exploding
+Will explode
+Fighting
+Fought
+Fight
+Fighting
+Will fight
+Road Accidents
+Occurred
+Occur
+Occurring
+Will occur
+Robbery
+Robbed
+Rob
+Robbing
+Will rob
+Shooting
+Shot
+Shoot
+Shooting
+Will shoot
+Shoplifting
+Shoplifted
+Shoplift
+Shoplifting
+Will shoplift
+Stealing
+Stole
+Steal
+Stealing
+Will steal
+Vandalism
+Vandalized
+Vandalize
+Vandalizing
+Will vandalize
+Maltreat
+Maltreated
+Maltreating
+Will maltreat
+Mistreat
+Mistreated
+Mistreating
+Will mistreat
+Harass
+Harassed
+Harassing
+Will harass
+Exploit
+Exploited
+Exploiting
+Will exploit
+Victimise
+Victimised
+Victimising
+Will victimise
+Oppress
+Oppressed
+Oppressing
+Will oppress
+Batter
+Battered
+Battering
+Will batter
+Persecute
+Persecuted
+Persecuting
+Will persecute
+Violate
+Violated
+Violating
+Will violate
+Manipulate
+Manipulated
+Manipulating
+Will manipulate
+Detain
+Detained
+Detaining
+Will detain
+Apprehend
+Apprehended
+Apprehending
+Will apprehend
+Capture
+Captured
+Capturing
+Will capture
+Seize
+Seized
+Seizing
+Will seize
+Incarcerate
+Incarcerated
+Incarcerating
+Will incarcerate
+Imprison
+Imprisoned
+Imprisoning
+Will imprison
+Nab
+Nabbed
+Nabbing
+Will nab
+Collar
+Collared
+Collaring
+Will collar
+Hold
+Held
+Holding
+Will hold
+Take into custody
+Took into custody
+Taking into custody
+Will take into custody
+Firebomb
+Firebombed
+Firebombing
+Will firebomb
+Torch
+Torched
+Torching
+Will torch
+Ignite
+Ignited
+Igniting
+Will ignite
+Burn
+Burned
+Burning
+Will burn
+Incendiarism
+Incendiarized
+Incendiarizing
+Will incendiarize
+Flame
+Flamed
+Flaming
+Will flame
+Set fire
+Set fire
+Setting fire
+Will set fire
+Kindle
+Kindled
+Kindling
+Will kindle
+Blaze
+Blazed
+Blazing
+Will blaze
+Scorch
+Scorched
+Scorching
+Will scorch
+Attack
+Attacked
+Attacking
+Will attack
+Strike
+Struck
+Striking
+Will strike
+Hit
+Hit
+Hitting
+Will hit
+Beat
+Beat
+Beating
+Will beat
+Thrash
+Thrashed
+Thrashing
+Will thrash
+Aggress
+Aggressed
+Aggressing
+Will aggress
+Pummel
+Pummeled
+Pummeling
+Will pummel
+Ambush
+Ambushed
+Ambushing
+Will ambush
+Charge
+Charged
+Charging
+Will charge
+Break-in
+Broke in
+Breaking in
+Will break in
+Rob
+Robbed
+Robbing
+Will rob
+Intrude
+Intruded
+Intruding
+Will intrude
+Trespass
+Trespassed
+Trespassing
+Will trespass
+Steal
+Stole
+Stealing
+Will steal
+Pilfer
+Pilfered
+Pilfering
+Will pilfer
+Loot
+Looted
+Looting
+Will loot
+Raid
+Raided
+Raiding
+Will raid
+Plunder
+Plundered
+Plundering
+Will plunder
+Invade
+Invaded
+Invading
+Will invade
+Detonate
+Detonated
+Detonating
+Will detonate
+Blow up
+Blew up
+Blowing up
+Will blow up
+Burst
+Burst
+Bursting
+Will burst
+Erupt
+Erupted
+Erupting
+Will erupt
+Blast
+Blasted
+Blasting
+Will blast
+Boom
+Boomed
+Booming
+Will boom
+Discharge
+Discharged
+Discharging
+Will discharge
+Combust
+Combusted
+Combusting
+Will combust
+Brawl
+Brawled
+Brawling
+Will brawl
+Clash
+Clashed
+Clashing
+Will clash
+Combat
+Combated
+Combating
+Will combat
+Scuffle
+Scuffled
+Scuffling
+Will scuffle
+Wrestle
+Wrestled
+Wrestling
+Will wrestle
+Tussle
+Tussled
+Tussling
+Will tussle
+Duel
+Dueled
+Dueling
+Will duel
+Spar
+Sparred
+Sparring
+Will spar
+Struggle
+Struggled
+Struggling
+Will struggle
+Grapple
+Grappled
+Grappling
+Will grapple
+Crash
+Crashed
+Crashing
+Will crash
+Collision
+Collided
+Colliding
+Will collide
+Wreck
+Wrecked
+Wrecking
+Will wreck
+Smash
+Smashed
+Smashing
+Will smash
+Bump
+Bumped
+Bumping
+Will bump
+Ram
+Rammed
+Ramming
+Will ram
+Rear-end
+Rear-ended
+Rear-ending
+Will rear-end
+Hit
+Hit
+Hitting
+Will hit
+Impact
+Impacted
+Impacting
+Will impact
+Overturn
+Overturned
+Overturning
+Will overturn
+Heist
+Heisted
+Heisting
+Will heist
+Steal
+Stole
+Stealing
+Will steal
+Pilfer
+Pilfered
+Pilfering
+Will pilfer
+Mug
+Mugged
+Mugging
+Will mug
+Plunder
+Plundered
+Plundering
+Will plunder
+Loot
+Looted
+Looting
+Will loot
+Ransack
+Ransacked
+Ransacking
+Will ransack
+Swipe
+Swiped
+Swiping
+Will swipe
+Snatch
+Snatched
+Snatching
+Will snatch
+Filch
+Filched
+Filching
+Will filch
+Fire
+Fired
+Firing
+Will fire
+Blast
+Blasted
+Blasting
+Will blast
+Gun down
+Gunned down
+Gunning down
+Will gun down
+Shoot
+Shot
+Shooting
+Will shoot
+Snipe
+Sniped
+Sniping
+Will snipe
+Discharge
+Discharged
+Discharging
+Will discharge
+Open fire
+Opened fire
+Opening fire
+Will open fire
+Pepper
+Peppered
+Peppering
+Will pepper
+Execute
+Executed
+Executing
+Will execute
+Hit
+Hit
+Hitting
+Will hit
+Pilfer
+Pilfered
+Pilfering
+Will pilfer
+Swipe
+Swiped
+Swiping
+Will swipe
+Lift
+Lifted
+Lifting
+Will lift
+Snatch
+Snatched
+Snatching
+Will snatch
+Pinch
+Pinched
+Pinching
+Will pinch
+Filch
+Filched
+Filching
+Will filch
+Shop
+Shopped
+Shopping
+Will shop
+Pocket
+Pocketed
+Pocketing
+Will pocket
+Sneak
+Sneaked
+Sneaking
+Will sneak
+Thieve
+Thieved
+Thieving
+Will thieve
+Swipe
+Swiped
+Swiping
+Will swipe
+Lift
+Lifted
+Lifting
+Will lift
+Snatch
+Snatched
+Snatching
+Will snatch
+Rob
+Robbed
+Robbing
+Will rob
+Filch
+Filched
+Filching
+Will filch
+Purloin
+Purloined
+Purloining
+Will purloin
+Pinch
+Pinched
+Pinching
+Will pinch
+Embezzle
+Embezzled
+Embezzling
+Will embezzle
+Deface
+Defaced
+Defacing
+Will deface
+Damage
+Damaged
+Damaging
+Will damage
+Destroy
+Destroyed
+Destroying
+Will destroy
+Sabotage
+Sabotaged
+Sabotaging
+Will sabotage
+Graffiti
+Graffitied
+Graffiting
+Will graffiti
+Ruin
+Ruined
+Ruining
+Will ruin
+Wreck
+Wrecked
+Wrecking
+Will wreck
+Smash
+Smashed
+Smashing
+Will smash
+Mar
+Marred
+Marring
+Will mar
+Desecrate
+Desecrated
+Desecrating
+Will desecrate

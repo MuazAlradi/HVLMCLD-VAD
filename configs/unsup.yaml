@@ -1,0 +1,68 @@
+{
+  "method": "unsup",
+  "description": "Unsupervised Generator-Discriminator Learning with Contrastive Loss",
+  "data_path": "./data",
+  "dataset": "ucf_crime",
+  "input_dim": 10752,
+  "epochs": 150,
+  "n_trials": 100,
+  "hyperparameters": {
+    "hidden_dim": {
+      "type": "int",
+      "min": 128,
+      "max": 1024,
+      "description": "Hidden dimension for Generator encoder/decoder"
+    },
+    "lr_G": {
+      "type": "loguniform",
+      "min": 1e-5,
+      "max": 1e-1,
+      "description": "Learning rate for Generator"
+    },
+    "lr_D": {
+      "type": "loguniform", 
+      "min": 1e-5,
+      "max": 1e-1,
+      "description": "Learning rate for Discriminator"
+    },
+    "weight_decay_G": {
+      "type": "loguniform",
+      "min": 1e-5,
+      "max": 1e-2,
+      "description": "Weight decay for Generator optimizer"
+    },
+    "weight_decay_D": {
+      "type": "loguniform",
+      "min": 1e-5, 
+      "max": 1e-2,
+      "description": "Weight decay for Discriminator optimizer"
+    }
+  },
+  "training": {
+    "batch_size": 30,
+    "test_batch_size": 1,
+    "optimizer": "Adagrad",
+    "pseudo_label_threshold": 0.1,
+    "reconstruction_loss": "MSE",
+    "adversarial_training": true
+  },
+  "model_architecture": {
+    "generator": {
+      "type": "autoencoder",
+      "encoder_layers": ["Linear", "ReLU"],
+      "decoder_layers": ["Linear", "ReLU"],
+      "initialization": "xavier_normal"
+    },
+    "discriminator": {
+      "type": "classifier",
+      "layers": [512, 32, 1],
+      "activations": ["ReLU", "ReLU", "Sigmoid"],
+      "initialization": "xavier_normal"
+    }
+  },
+  "evaluation": {
+    "metric": "AUC",
+    "direction": "maximize",
+    "test_frequency": 1
+  }
+}
