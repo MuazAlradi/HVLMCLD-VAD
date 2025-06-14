@@ -90,11 +90,21 @@ data/
 │
 ├── keyword_dictionaries/
 │   ├── K700_action_keywords.txt        # Keyword dictionary for actions from K700
-│   ├── COCO_object_keywords.txt        # Keyword dictionary for objects from COCO
+│   └── COCO_object_keywords.txt        # Keyword dictionary for objects from COCO
 │
 ├── gpt_descriptions/
 │   ├── gpt_action_expanded.txt         # Expanded GPT-4 phrases for actions
-│   ├── gpt_object_expanded.txt         # Expanded GPT-4 descriptions for objects
+│   └── gpt_object_expanded.txt         # Expanded GPT-4 descriptions for objects
+│
+├── training_free_dictionaries/
+│   ├── gpt_actions
+│   │   ├── gpt_actions_normal.txt
+│   │   └── gpt_actions_anomaly.txt
+│   ├── k700_actions
+│   ├── gpt+k700_actions
+│   ├── gpt_objects
+│   ├── coco_objects
+│   ├── gpt+coco_objects
 ```
 
 📥 Download and prepare the datasets from their official sources (as video files):
