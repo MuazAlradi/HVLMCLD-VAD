@@ -124,9 +124,6 @@ data/
 
 👉 Place each dataset inside the corresponding folder in `./data`. All preprocessing and feature extraction scripts assume this structure.
 
-
-Thanks! Here is the updated version of the **Feature Extraction** section that reflects the unified script's extended arguments — including number of views, whether to use long-view features, and whether to extract visual features in addition to text:
-
 ---
 
 ### 2️⃣ Feature Extraction
@@ -285,10 +282,23 @@ This approach matches each video feature to textual embeddings from the **compre
 
 #### 📈 Anomaly Score Curves
 
-Generate anomaly score plots over time for qualitative evaluation:
+Generate anomaly score plots over time for qualitative evaluation. Here are some usage examples:
 
 ```bash
-python visualize_scores.py --dataset ucf_crime --model_path ./output/...
+# Process all videos from UCF-Crime dataset
+python visualize_scores.py --dataset ucf_crime --model_path ./output/<model_file>.pth --all_videos
+
+# Process 10 random videos
+python visualize_scores.py --dataset ucf_crime --model_path ./output/<model_file>.pth --num_random 10
+
+# Process specific video
+python visualize_scores.py --dataset ucf_crime --model_path ./output/<model_file>.pth --video_name Abuse001_x264.mp4
+
+# Use different dataset
+python visualize_scores.py --dataset shanghai_tech --model_path ./output/<model_file>.pth --all_videos
+
+# Custom data root and output directory
+python visualize_scores.py --dataset ucf_crime --model_path ./output/<model_file>.pth --data_root /path/to/data --output_dir ./custom_output --num_random 5
 ````
 
 #### 🎞️ Anomaly Overlay Rendering
@@ -296,11 +306,31 @@ python visualize_scores.py --dataset ucf_crime --model_path ./output/...
 Render anomaly scores directly onto video frames (e.g., top-left corner), creating annotated videos for easy visual inspection:
 
 ```bash
+# Process all videos from UCF-Crime dataset
 python render_anomaly_overlay.py \
   --dataset ucf_crime \
   --model_path ./output/ucf_model.pth \
   --save_video True \
-  --output_dir ./output/visualizations/
+  --output_dir ./output/visualizations/ \
+  --all_videos
+
+# Process specific video
+python render_anomaly_overlay.py \
+  --dataset ucf_crime \
+  --model_path ./output/ucf_model.pth \
+  --save_video True \
+  --output_dir ./output/visualizations/ \
+  --video_name Abuse001_x264.mp4
+
+# Process 5 random videos with custom threshold
+python render_anomaly_overlay.py \
+  --dataset shanghai_tech \
+  --model_path ./output/model.pth \
+  --save_video True \
+  --output_dir ./custom_output/ \
+  --num_random 5 \
+  --score_threshold 0.7
+
 ```
 
 🧾 **Options**:
@@ -309,6 +339,11 @@ python render_anomaly_overlay.py \
 * `--output_dir`: Path to save rendered videos with anomaly overlays
 * `--dataset`: Dataset name
 * `--model_path`: Path to the trained model or anomaly score file
+* `--score_threshold`: Anomaly classification threshold (default: 0.5)
+* `--show_ground_truth`: Enable/disable ground truth comparison
+* `--input_dim`: Model input dimension (default: 10752)
+
+
 
 📺 Example output:
 
@@ -324,6 +359,7 @@ Each video will display:
 
 * Frame-by-frame view of the input video
 * Real-time anomaly score on the top-left corner (0.00 to 1.00)
+* Color-coded system immediately shows detection accuracy
 
 This makes qualitative assessment and demonstration highly intuitive.
 
