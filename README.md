@@ -3,7 +3,7 @@
 
 The official implementation for **HVLMCLD-VAD: Hierarchical Vision-Language Model with Comprehensive Language Description for Video Anomaly Detection**.
 
-📄 Submitted to *Information Fusion, 2025* [[Paper]](https://arxiv.org/abs/2505.23704)
+📄 Submitted to *Pattern Recognition, 2025*
 
 ## HVLMCLD-VAD Framework
 
@@ -267,7 +267,7 @@ python train.py \
 
 This method bypasses model training and directly matches video features to dictionary embeddings.
 
-🧪 **Without** dictionary distance maximization (DMM):
+🧪 **Without** dictionary distance maximization (DDM):
 
 ```bash
 python test_dict_matching.py \
@@ -275,7 +275,7 @@ python test_dict_matching.py \
   --dictionary action_gpt4
 ```
 
-🧪 **With** dictionary distance maximization (DMM enabled by default):
+🧪 **With** dictionary distance maximization (DDM enabled by default):
 
 ```bash
 python test_dict_matching.py \
