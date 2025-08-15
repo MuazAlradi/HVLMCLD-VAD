@@ -382,7 +382,7 @@ Please cite our work if you use HVLMCLD-VAD in your research:
 @article{alradi2025hvlmcldvad,
   title={Hierarchical Vision-Language Model with Comprehensive Language Description for Video Anomaly Detection},
   author={Al Radi, Muaz and Javed, Sajid},
-  journal={Information Fusion},
+  journal={Pattern Recognition},
   year={2025}
 }
 ```
