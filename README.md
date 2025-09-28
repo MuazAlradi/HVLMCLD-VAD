@@ -3,7 +3,7 @@
 
 The official implementation for **HVLMCLD-VAD: Hierarchical Vision-Language Model with Comprehensive Language Description for Video Anomaly Detection**.
 
-📄 Submitted to *Pattern Recognition, 2025*
+📄 Submitted to *Knowledge-Based Systems, 2025*
 
 ## HVLMCLD-VAD Framework
 
@@ -382,7 +382,7 @@ Please cite our work if you use HVLMCLD-VAD in your research:
 @article{alradi2025hvlmcldvad,
   title={Hierarchical Vision-Language Model with Comprehensive Language Description for Video Anomaly Detection},
   author={Al Radi, Muaz and Javed, Sajid},
-  journal={Pattern Recognition},
+  journal={Knowledge-Based Systems},
   year={2025}
 }
 ```
