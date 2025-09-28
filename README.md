@@ -374,18 +374,6 @@ Each video will display:
 This makes qualitative assessment and demonstration highly intuitive.
 
 
-## ⚙️ Citation
-
-Please cite our work if you use HVLMCLD-VAD in your research:
-
-```bibtex
-@article{alradi2025hvlmcldvad,
-  title={Hierarchical Vision-Language Model with Comprehensive Language Description for Video Anomaly Detection},
-  author={Al Radi, Muaz and Javed, Sajid},
-  journal={Knowledge-Based Systems},
-  year={2025}
-}
-```
 
 ## 🤝 Acknowledgments
 
@@ -394,7 +382,3 @@ Please cite our work if you use HVLMCLD-VAD in your research:
 * We extend our gratitude to Dr. Said Boumaraf for his support in providing the computational resources necessary to conduct our experiments.
 
 
-## 📬 Contact
-
-For questions, contact:
-📧 [100059660@ku.ac.ae](mailto:100059660@ku.ac.ae)
